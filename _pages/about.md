@@ -18,10 +18,8 @@ Meine Hobbies sind Programmieren 🧑‍💻, Musik 🎺, Zeit mit meinen Freund
 * Dualer Student in mobiler Informatik (2018-2021)
 * Softwareentwickler für C4ISR-Systeme (2021-Heute)
 
-## 2. Skills
-
-
-## 3. Ausbildung
+## 2. Ausbildung
+Assistent für Informations- und Kommunikationstechnik (2016-2018)
 DHBW Student in mobiler Informatik (2018-2021)
 
 [Schau doch für mehr Infos in meinem LinkedIn Profil vorbei ;)](https://de.linkedin.com/in/jonas-steinhauser-278b221ab)
