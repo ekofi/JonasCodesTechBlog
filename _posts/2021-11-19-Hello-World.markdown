@@ -1,11 +1,12 @@
 ---
 layout: post
-title:  Hello World
+title: Hello World
 description: Servus ich bin Jonas Steinhauser ...
-date:   2021-11-22 6:00:00 +0300
-image:  '/images/world.jpg'
-tags:   [me, tech]
+date: 2021-11-22 6:00:00 +0300
+image: "/images/world.webp"
+tags: [me, tech]
 ---
+
 Servus 👋 ich bin Jonas Steinhauser. Geek & Developer.
 
 Ich bin immer auf der Suche nach der nächsten Herausforderung, sei es in der Programmierung oder in meinen anderen Interessensgebieten. Meine Hobbies sind Programmieren 🧑‍💻, Musik 🎺, Zeit mit meinen Freunden/Familie verbringen und Motorrad fahren 🏍️.
